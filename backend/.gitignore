@@ -26,5 +26,6 @@ dist-ssr
 # module/library folders
 ./backend-env/
 
-# cache folders
-./app/__pycache__/
+# cache folders/files
+__pycache__/
+*.pyc
